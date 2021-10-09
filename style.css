@@ -1,8 +1,76 @@
-h1{
-    text-align: center;
-    color:red;
+*{
+    margin: 0px;
+    padding: 0px;
 }
 
-p{
-    font-size: 10px;
+body{
+    background: #f4f0e1;
+}
+h1{
+    text-align: center;
+    color: purple;
+    margin-top: 19px;
+    font-size: 56px;
+}
+
+h2{
+    position: absolute;
+    top: 180px;
+    left: 246px;
+    font-size: 35px;
+    color: blue;
+}
+
+h3{
+    position: absolute;
+    top: 236px;
+    left: 170px;
+    font-size: 35px;
+    color: blue;
+    font-style: italic;
+}
+
+img{
+    height: 176px;
+    width: 200px;
+}
+.image{
+    position: absolute;
+    top: 130px;
+    left: 620px;
+}
+
+.flag1{
+    position: absolute;
+    top: 2px;
+    left: 338px;
+    color: sandybrown;
+}
+
+.flag2{
+    position: absolute;
+    top: 2px;
+    left: 352px;
+    color: sandybrown;
+}
+
+.flag3{
+    position: absolute;
+    top: 2px;
+    left: 378px;
+    color: white;
+}
+
+.flag4{
+    position: absolute;
+    top: 2px;
+    left: 403px;
+    color: green;
+}
+
+.flag5{
+    position: absolute;
+    top: 2px;
+    left: 418px;
+    color: green;
 }
